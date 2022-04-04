@@ -11,4 +11,3 @@
 ○	Phone number:(555)-755-6575
 ○	CloseAt: Click on ‘Today’, and Time = 12:57 PM
 ○	Balance: 770.54
-![image](https://user-images.githubusercontent.com/102942369/161484664-1b3e3f96-d082-4f45-91a6-35c26fe15761.png)
